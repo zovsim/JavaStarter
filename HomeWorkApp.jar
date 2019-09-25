@@ -1,0 +1,12 @@
+git branch;
+System.out.println("Hello World");
+class HelloWorldApp {
+public static void main (String[] args) {
+System.out.print("");}
+}
+class HomeWorkApp {
+public static void main (String[] args) {
+System.out.println("1. copy new branch from created before (task 1); 2. apply changes in new branch and commit it (create possible conflict between them); 3. merge changes in the second branch into first one.");}
+}
+HomeWorkApp.main(new String[0])
+HomeWorkApp.main(new String[0])
